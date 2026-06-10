@@ -108,8 +108,7 @@ Example of the model's predicted sales:
 
 **Ajay Sudhakar Gande**  
 M.Sc. Data Science | Aspiring Data Scientist / Data Analyst / BI Analyst  
-📧 Email: ajaygande1@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/ajay-gande-5a38b2273](https://www.linkedin.com/in/ajay-gande-5a38b2273)
+[Email](ajaygande1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ajay-gande)
 
 ---
 
